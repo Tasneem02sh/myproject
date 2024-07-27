@@ -1,0 +1,289 @@
+{
+        "items":[
+           {
+              "en": {
+                  "title":"Smartphone X",
+                  "short_description":"Experience the latest in mobile technology with Smartphone X.",
+                  "category":"Smartphones"
+              },
+              "ar": {
+                  "title":"هاتف ذكي X",
+                  "short_description":"استمتع بأحدث التقنيات المتنقلة مع هاتف ذكي X.",
+                  "category":"الهواتف الذكية"
+              },
+              "price":799.99,
+              "discount":0.15,
+              "image_url":"https://picsum.photos/id/1015/200/300"
+           },
+           {
+              "en": {
+                  "title":"Ultra HD Television",
+                  "short_description":"Transform your viewing experience with our Ultra HD Television.",
+                  "category":"Televisions"
+              },
+              "ar": {
+                  "title":"تلفزيون Ultra HD",
+                  "short_description":"حول تجربة مشاهدتك مع تلفزيون Ultra HD لدينا.",
+                  "category":"التلفزيونات"
+              },
+              "price":1499.99,
+              "discount":0.1,
+              "image_url":"https://picsum.photos/id/1040/200/300"
+           },
+           {
+              "en": {
+                  "title":"Wireless Earbuds",
+                  "short_description":"Enjoy music on the go with our high-quality Wireless Earbuds.",
+                  "category":"Audio"
+              },
+              "ar": {
+                  "title":"سماعات لاسلكية",
+                  "short_description":"استمتع بالموسيقى أثناء التنقل مع سماعات الأذن اللاسلكية عالية الجودة لدينا.",
+                  "category":"الصوتيات"
+              },
+              "price":129.99,
+              "discount":0.05,
+              "image_url":"https://picsum.photos/id/1039/200/300"
+           },
+           {
+              "en": {
+                  "title":"Laptop Pro",
+                  "short_description":"Boost your productivity with the powerful Laptop Pro.",
+                  "category":"Laptops"
+              },
+              "ar": {
+                  "title":"لابتوب برو",
+                  "short_description":"زد من إنتاجيتك مع لابتوب برو القوي.",
+                  "category":"الأجهزة المحمولة"
+              },
+              "price":1299.99,
+              "discount":0.2,
+              "image_url":"https://picsum.photos/id/1041/200/300"
+           },
+           {
+              "en": {
+                  "title":"Gaming Console X",
+                  "short_description":"Experience the thrill of gaming with our Gaming Console X.",
+                  "category":"Gaming"
+              },
+              "ar": {
+                  "title":"جهاز ألعاب X",
+                  "short_description":"استمتع بتجربة الإثارة مع جهاز الألعاب X لدينا.",
+                  "category":"ألعاب الفيديو"
+              },
+              "price":499.99,
+              "discount":0.1,
+              "image_url":"https://picsum.photos/id/1042/200/300"
+           },
+           {
+              "en": {
+                  "title":"Smart Watch Series 5",
+                  "short_description":"Stay connected and track your fitness with the Smart Watch Series 5.",
+                  "category":"Wearables"
+              },
+              "ar": {
+                  "title":"ساعة ذكية سلسلة 5",
+                  "short_description":"ابق على اتصال وتتبع لياقتك مع ساعة ذكية سلسلة 5.",
+                  "category":"الأجهزة القابلة للارتداء"
+              },
+              "price":299.99,
+              "discount":0.05,
+              "image_url":"https://picsum.photos/id/1043/200/300"
+           },
+           {
+              "en": {
+                  "title":"Bluetooth Speaker",
+                  "short_description":"Bring your music to life with our portable Bluetooth Speaker.",
+                  "category":"Audio"
+              },
+              "ar": {
+                  "title":"مكبر صوت بلوتوث",
+                  "short_description":"أعطِ موسيقاك الحياة مع مكبر الصوت بلوتوث المحمول لدينا.",
+                  "category":"الصوتيات"
+              },
+              "price":79.99,
+              "discount":0.1,
+              "image_url":"https://picsum.photos/id/1044/200/300"
+           },
+           {
+              "en": {
+                  "title":"HD Webcam",
+                  "short_description":"Stay connected with crystal-clear video quality using our HD Webcam.",
+                  "category":"Accessories"
+              },
+              "ar": {
+                  "title":"كاميرا ويب عالية الوضوح",
+                  "short_description":"ابق على اتصال بجودة فيديو واضحة الكريستال باستخدام كاميرا الويب عالية الدقة لدينا.",
+                  "category":"الملحقات"
+              },
+              "price":59.99,
+              "discount":0.15,
+              "image_url":"https://picsum.photos/id/1045/200/300"
+           },
+           {
+              "en": {
+                  "title":"Wireless Charging Pad",
+                  "short_description":"Charge your devices wirelessly with our sleek Charging Pad.",
+                  "category":"Accessories"
+              },
+              "ar": {
+                  "title":"قاعدة شحن لاسلكية",
+                  "short_description":"قم بشحن أجهزتك بدون أسلاك مع قاعدة الشحن الأنيقة لدينا.",
+                  "category":"الملحقات"
+              },
+              "price":39.99,
+              "discount":0.05,
+              "image_url":"https://picsum.photos/id/1046/200/300"
+           },
+           {
+              "en": {
+                  "title":"Smart Home Starter Kit",
+                  "short_description":"Begin your journey to a smarter home with our Starter Kit.",
+                  "category":"Smart Home"
+              },
+              "ar": {
+                  "title":"طقم بداية البيت الذكي",
+                  "short_description":"ابدأ رحلتك نحو منزل أكثر ذكاءً مع طقم البداية لدينا.",
+                  "category":"المنزل الذكي"
+              },
+              "price":299.99,
+              "discount":0.1,
+              "image_url":"https://picsum.photos/id/1047/200/300"
+           },
+           {
+              "en": {
+                  "title":"Portable Power Bank",
+                  "short_description":"Never run out of battery with our high-capacity Power Bank.",
+                  "category":"Accessories"
+              },
+              "ar": {
+                  "title":"بنك طاقة محمول",
+                  "short_description":"لا تنفد أبدًا من البطارية مع بنك الطاقة عالي السعة لدينا.",
+                  "category":"الملحقات"
+              },
+              "price":49.99,
+              "discount":0.05,
+              "image_url":"https://picsum.photos/id/1048/200/300"
+           },
+           {
+              "en": {
+                  "title":"Desktop Monitor",
+                  "short_description":"Enhance your workstation with our high-resolution Desktop Monitor.",
+                  "category":"Monitors"
+              },
+              "ar": {
+                  "title":"شاشة حاسوب مكتبي",
+                  "short_description":"زد من أداء محطتك بشاشة حاسوب مكتبي عالية الدقة.",
+                  "category":"الشاشات"
+              },
+              "price":399.99,
+              "discount":0.2,
+              "image_url":"https://picsum.photos/id/1049/200/300"
+           },
+           {
+              "en": {
+                  "title":"VR Headset",
+                  "short_description":"Immerse yourself in virtual worlds with our cutting-edge VR Headset.",
+                  "category":"Gaming"
+              },
+              "ar": {
+                  "title":"نظارة واقع افتراضي",
+                  "short_description":"تغمر نفسك في عوالم افتراضية مع نظارة الواقع الافتراضي لدينا.",
+                  "category":"ألعاب الفيديو"
+              },
+              "price":299.99,
+              "discount":0.1,
+              "image_url":"https://picsum.photos/id/1050/200/300"
+           },
+           {
+              "en": {
+                  "title":"Digital Camera",
+                  "short_description":"Capture memories in stunning detail with our Digital Camera.",
+                  "category":"Cameras"
+              },
+              "ar": {
+                  "title":"كاميرا رقمية",
+                  "short_description":"التقط الذكريات بتفاصيلها الرائعة مع كاميرا رقمية لدينا.",
+                  "category":"الكاميرات"
+              },
+              "price":599.99,
+              "discount":0.15,
+              "image_url":"https://picsum.photos/id/1051/200/300"
+           },
+           {
+              "en": {
+                  "title":"Wireless Router",
+                  "short_description":"Stay connected with high-speed internet using our Wireless Router.",
+                  "category":"Networking"
+              },
+              "ar": {
+                  "title":"جهاز توجيه لاسلكي",
+                  "short_description":"ابق على اتصال بالإنترنت عالي السرعة باستخدام جهاز التوجيه اللاسلكي لدينا.",
+                  "category":"الشبكات"
+              },
+              "price":99.99,
+              "discount":0.05,
+              "image_url":"https://picsum.photos/id/1052/200/300"
+           },
+           {
+              "en": {
+                  "title":"Noise-Canceling Headphones",
+                  "short_description":"Block out distractions and enjoy your music with our Noise-Canceling Headphones.",
+                  "category":"Audio"
+              },
+              "ar": {
+                  "title":"سماعات لاسلكية مانعة للضوضاء",
+                  "short_description":"احجب الانحرافات واستمتع بموسيقاك مع سماعات لاسلكية مانعة للضوضاء لدينا.",
+                  "category":"الصوتيات"
+              },
+              "price":199.99,
+              "discount":0.1,
+              "image_url":"https://picsum.photos/id/1053/200/300"
+           },
+           {
+              "en": {
+                  "title":"Smart Thermostat",
+                  "short_description":"Take control of your home's climate with our Smart Thermostat.",
+                  "category":"Smart Home"
+              },
+              "ar": {
+                  "title":"مُدرج ذكي",
+                  "short_description":"خذ السيطرة على مناخ منزلك مع مُدرجنا الذكي.",
+                  "category":"المنزل الذكي"
+              },
+              "price":129.99,
+              "discount":0.05,
+              "image_url":"https://picsum.photos/id/1054/200/300"
+           },
+           {
+              "en": {
+                  "title":"Wireless Keyboard and Mouse Combo",
+                  "short_description":"Experience freedom and convenience with our Wireless Keyboard and Mouse Combo.",
+                  "category":"Accessories"
+              },
+              "ar": {
+                  "title":"مجموعة لوحة المفاتيح والفأرة اللاسلكية",
+                  "short_description":"استمتع بالحرية والراحة مع مجموعة لوحة المفاتيح والفأرة اللاسلكية لدينا.",
+                  "category":"الملحقات"
+              },
+              "price":79.99,
+              "discount":0.1,
+              "image_url":"https://picsum.photos/id/1055/200/300"
+           },
+           {
+              "en": {
+                  "title":"External Hard Drive",
+                  "short_description":"Expand your storage space with our high-capacity External Hard Drive.",
+                  "category":"Storage"
+              },
+              "ar": {
+                  "title":"قرص صلب خارجي",
+                  "short_description":"وسِّع مساحة التخزين الخاصة بك مع قرص صلب خارجي عالي السعة.",
+                  "category":"التخزين"
+              },
+              "price":129.99,
+              "discount":0.05,
+              "image_url":"https://picsum.photos/id/1056/200/300"
+           }
+        ]
+     }

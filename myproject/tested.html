@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>online shopping</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+</head>
+<style>
+    .card {
+        transition: all 0.5s ease;
+        cursor: pointer;
+        box-shadow: 0px 0px 6px -4px rgb(0, 0, 0, 0.75);
+        border-radius: 10px;
+    }
+
+    .card:hover {
+        box-shadow: 0px 0px 51px -36px rgba(0, 0, 0, 0.1);
+    }
+</style>
+
+<body>
+    <!-- header start -->
+    <header>
+
+        <ul class="nav nav-justified p-5 ">
+            <img src="krist-logo.png" style="width:100px">
+            <li class="nav-item"><a class="nav-link link-dark" href="#">Home </a></li>
+            <li class="nav-item"><a class="nav-link link-dark" href="#">Shop </a></li>
+            <li class="nav-item"><a class="nav-link link-dark" href="#">Our Story </a></li>
+            <li class="nav-item"><a class="nav-link link-dark" href="#">Blog</a></li>
+            <li class="nav-item"><a class="nav-link link-dark" href="#">Contact Us</a></li>
+            <li class="nav-item"><button class="btn btn-outline-dark" type="button">Login</button></li>
+        </ul>
+    </header>
+    <!-- header end -->
+
+    <!--main start-->
+    <main>
+
+
+
+        <!--Search-->
+        <input type="text" class="form-control mt-3 mx-auto" id="search-input" placeholder="Search products..."
+            style="width: 30%;">
+
+        <h3 class="text-danger mt-5 text-center" id="para" style="display: none;">Not found</h3>
+        <!--categories-->
+        <div id="products-categories" class="list-group "></div>
+
+        <div id="multi-ranges-tooltips" data-mdb-tooltip="true"></div>
+
+        
+        <div class="col-10">
+            <div class="row mt-3" id="card">
+            </div>
+        </div>
+
+
+
+        <script src="script.js"></script>
+
+        <!-- footer-->
+
+        <footer class="footer p-5 bg-dark text-white">
+
+            <div class="row ">
+                <div class="col">
+                    <img src="krist-logo.png" class="img-fluid" alt="Krist Logo" width="200px">
+                    <p><a class="link-light" href="tel:(704)555-0127">(704)555-0127</a></p>
+                    <p><a class="link-light" href="mailto:krist@example.com">krist@example.com</a></p>
+                    <p><a class="link-light" href="https://wheatcrofteyecare.co.uk/contact/">3891 Ranchview Dr.
+                            Richardson, California 62639</a></p>
+                </div>
+                <div class="col">
+                    <h5>Information</h5>
+                    <p><a class="link-underline-light link-light" href="#">My Account</a></p>
+                    <p><a class="link-light" href="#">Login</a></p>
+                    <p><a class="link-light" href="#">My Cart</a></p>
+                    <p><a class="link-light" href="#">My Wishlist</a></p>
+                    <p><a class="link-light" href="#">Checkout</a></p>
+                </div>
+                <div class="col">
+                    <h5>Service</h5>
+                    <p><a class="link-light" href="#">About Us</a></p>
+                    <p><a class="link-light" href="#">Careers</a></p>
+                    <p><a class="link-light" href="#">Delivery Information</a></p>
+                    <p><a class="link-light" href="#">Privacy Policy</a></p>
+                    <p><a class="link-light" href="#">Terms & Conditions</a></p>
+                </div>
+                <div class="col">
+                    <h5>Subscribe</h5>
+                    <p>Enter your email below to be the first to know about new collections and product launches.</p>
+                    <div class="input-group mb-3">
+                        <input type="email" class="form-control" placeholder="Your Email" aria-label="Your Email"
+                            aria-describedby="basic-addon2">
+                        <button class="btn btn-outline-secondary" type="button"><i
+                                class="fa fa-arrow-right"></i></button>
+                    </div>
+                </div>
+
+            </div>
+        </footer>
+
+        <!--End the footer -->
+</body>
+
+</html>

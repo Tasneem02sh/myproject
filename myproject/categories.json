@@ -1,0 +1,52 @@
+{
+   "categories":[
+      {
+         "en":"Smartphones",
+         "ar":"الهواتف الذكية"
+      },
+      {
+         "en":"Televisions",
+         "ar":"التلفزيونات"
+      },
+      {
+         "en":"Audio",
+         "ar":"الصوتيات"
+      },
+      {
+         "en":"Laptops",
+         "ar":"الأجهزة المحمولة"
+      },
+      {
+         "en":"Gaming",
+         "ar":"ألعاب الفيديو"
+      },
+      {
+         "en":"Wearables",
+         "ar":"الأجهزة القابلة للارتداء"
+      },
+      {
+         "en":"Accessories",
+         "ar":"الملحقات"
+      },
+      {
+         "en":"Monitors",
+         "ar":"الشاشات"
+      },
+      {
+         "en":"Cameras",
+         "ar":"الكاميرات"
+      },
+      {
+         "en":"Networking",
+         "ar":"الشبكات"
+      },
+      {
+         "en":"Smart Home",
+         "ar":"المنزل الذكي"
+      },
+      {
+         "en":"Storage",
+         "ar":"التخزين"
+      }
+   ]
+}
